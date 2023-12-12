@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all":  "marco_mod:block/ruby_ore"
+  }
+}

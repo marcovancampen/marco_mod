@@ -18,8 +18,15 @@ public class ModCreativeModeTabs {
             .displayItems((pParameters, pOutput) -> {
                 pOutput.accept(Moditems.RUBY.get());
                 pOutput.accept(Moditems.SAPPHIRE.get());
+                pOutput.accept(Moditems.RAW_SAPPHIRE.get());
+                pOutput.accept(Moditems.RAW_RUBY.get());
+                pOutput.accept(Moditems.HAMBURGER.get());
                 pOutput.accept(ModBlocks.RUBY_BLOCK.get());
                 pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
+                pOutput.accept(ModBlocks.RUBY_ORE.get());
+                pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
+
+
             })
             .build());
     public static void register(IEventBus eventBus){

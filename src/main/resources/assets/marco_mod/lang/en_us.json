@@ -1,9 +1,16 @@
 {
   "item.marco_mod.ruby": "Ruby",
   "item.marco_mod.sapphire": "Sapphire",
+  "item.marco_mod.raw_ruby": "Raw Ruby",
+  "item.marco_mod.raw_sapphire": "Raw_sapphire",
 
   "block.marco_mod.ruby_block": "Block of Ruby",
   "block.marco_mod.sapphire_block": "Block of Sapphire",
+  "block.marco_mod.ruby_ore": "Ruby ore",
+  "block.marco_mod.sapphire_ore": "sapphire ore",
+  "item.marco_mod.hamburger": "hamburger",
+  "item.marco_mods.eternal_flame": "eternal flame",
+
 
   "creativetab.ruby_tab": "Marco mod"
 
