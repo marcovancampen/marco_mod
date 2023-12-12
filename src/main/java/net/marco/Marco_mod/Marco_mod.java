@@ -1,6 +1,11 @@
 package net.marco.Marco_mod;
 
 import com.mojang.logging.LogUtils;
+import net.marco.Marco_mod.block.ModBlocks;
+import net.marco.Marco_mod.item.ModCreativeModeTabs;
+import net.marco.Marco_mod.item.Moditems;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -26,6 +31,9 @@ public class Marco_mod
 
     public Marco_mod(){
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        ModCreativeModeTabs.register(modEventBus);
+        Moditems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
@@ -43,6 +51,9 @@ public class Marco_mod
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event){
+        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS){
+            event.accept(Moditems.RUBY);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
