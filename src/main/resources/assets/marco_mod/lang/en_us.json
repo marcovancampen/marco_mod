@@ -3,23 +3,32 @@
   "item.marco_mod.sapphire": "Sapphire",
   "item.marco_mod.raw_ruby": "Raw Ruby",
   "item.marco_mod.raw_sapphire": "Raw_sapphire",
-  "item.marco_mod.hamburger": "hamburger",
-  "item.marco_mods.eternal_flame": "eternal flame",
+  "item.marco_mod.hamburger": "Hamburger",
+  "item.marco_mod.eternal_flame": "Eternal flame",
+  "item.marco_mod.ruby_wand": "Ruby wand",
+
+  "item.marco_mod.ruby_sword": "Ruby sword",
+  "item.marco_mod.ruby_pickaxe": "Ruby pickaxe",
+  "item.marco_mod.ruby_axe": "Ruby axe",
+  "item.marco_mod.ruby_shovel": "Ruby shovel",
+  "item.marco_mod.ruby_hoe": "Ruby hoe",
+
 
   "block.marco_mod.ruby_block": "Block of Ruby",
   "block.marco_mod.sapphire_block": "Block of Sapphire",
   "block.marco_mod.ruby_ore": "Ruby ore",
-  "block.marco_mod.sapphire_ore": "sapphire ore",
+  "block.marco_mod.sapphire_ore": "Sapphire ore",
 
-  "block.marco_mod.ruby_stairs": "ruby stairs",
-  "block.marco_mod.ruby_slab": "ruby slab",
-  "block.marco_mod.ruby_button": "ruby button",
-  "block.marco_mod.ruby_pressure_plat": "ruby pressure plate",
-  "block.marco_mod.ruby_fence": "ruby fence",
-  "block.marco_mod.ruby_fence_gate": "ruby fence gate",
-  "block.marco_mod.ruby_wall": "ruby wall",
-  "block.marco_mod.ruby_door": "ruby door",
-  "block.marco_mod.ruby_trapdoor": "ruby trapdoor",
+  "block.marco_mod.ruby_stairs": "Ruby stairs",
+  "block.marco_mod.ruby_slab": "Ruby slab",
+  "block.marco_mod.ruby_button": "Ruby button",
+  "block.marco_mod.ruby_pressure_plate": "Ruby pressure plate",
+  "block.marco_mod.ruby_fence": "Ruby fence",
+  "block.marco_mod.ruby_fence_gate": "Ruby fence gate",
+  "block.marco_mod.ruby_wall": "Ruby wall",
+  "block.marco_mod.ruby_door": "Ruby door",
+  "block.marco_mod.ruby_trapdoor": "Ruby trapdoor",
+
 
 
   "creativetab.ruby_tab": "Marco mod"

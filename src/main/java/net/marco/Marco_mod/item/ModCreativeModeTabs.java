@@ -3,6 +3,7 @@ package net.marco.Marco_mod.item;
 import net.marco.Marco_mod.Marco_mod;
 import net.marco.Marco_mod.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
+import net.minecraft.data.PackOutput;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
@@ -34,6 +35,12 @@ public class ModCreativeModeTabs {
                 pOutput.accept(ModBlocks.RUBY_WALL.get());
                 pOutput.accept(ModBlocks.RUBY_DOOR.get());
                 pOutput.accept(ModBlocks.RUBY_TRAPDOOR.get());
+                pOutput.accept(Moditems.RUBY_WAND.get());
+                pOutput.accept(Moditems.RUBY_SWORD.get());
+                pOutput.accept(Moditems.RUBY_HOE.get());
+                pOutput.accept(Moditems.RUBY_SHOVEL.get());
+                pOutput.accept(Moditems.RUBY_PICKAXE.get());
+                pOutput.accept(Moditems.RUBY_AXE.get());
 
 
             })

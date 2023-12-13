@@ -36,7 +36,6 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
 
         this.tag(BlockTags.NEEDS_IRON_TOOL).add(ModBlocks.SAPPHIRE_ORE.get(),
                 ModBlocks.RUBY_ORE.get(),
-                ModBlocks.RUBY_BLOCK.get(),
                 ModBlocks.SAPPHIRE_BLOCK.get(),
                 ModBlocks.RUBY_STAIRS.get(),
                 ModBlocks.RUBY_SLAB.get(),
@@ -47,6 +46,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 ModBlocks.RUBY_TRAPDOOR.get(),
                 ModBlocks.RUBY_DOOR.get());
 
+        this.tag(ModTags.Blocks.NEEDS_RUBY_TOOL).add(ModBlocks.RUBY_BLOCK.get());
 
 
         this.tag(BlockTags.FENCES).add(ModBlocks.RUBY_FENCE.get());
