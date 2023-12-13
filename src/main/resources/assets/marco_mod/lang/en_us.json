@@ -3,13 +3,23 @@
   "item.marco_mod.sapphire": "Sapphire",
   "item.marco_mod.raw_ruby": "Raw Ruby",
   "item.marco_mod.raw_sapphire": "Raw_sapphire",
+  "item.marco_mod.hamburger": "hamburger",
+  "item.marco_mods.eternal_flame": "eternal flame",
 
   "block.marco_mod.ruby_block": "Block of Ruby",
   "block.marco_mod.sapphire_block": "Block of Sapphire",
   "block.marco_mod.ruby_ore": "Ruby ore",
   "block.marco_mod.sapphire_ore": "sapphire ore",
-  "item.marco_mod.hamburger": "hamburger",
-  "item.marco_mods.eternal_flame": "eternal flame",
+
+  "block.marco_mod.ruby_stairs": "ruby stairs",
+  "block.marco_mod.ruby_slab": "ruby slab",
+  "block.marco_mod.ruby_button": "ruby button",
+  "block.marco_mod.ruby_pressure_plat": "ruby pressure plate",
+  "block.marco_mod.ruby_fence": "ruby fence",
+  "block.marco_mod.ruby_fence_gate": "ruby fence gate",
+  "block.marco_mod.ruby_wall": "ruby wall",
+  "block.marco_mod.ruby_door": "ruby door",
+  "block.marco_mod.ruby_trapdoor": "ruby trapdoor",
 
 
   "creativetab.ruby_tab": "Marco mod"
