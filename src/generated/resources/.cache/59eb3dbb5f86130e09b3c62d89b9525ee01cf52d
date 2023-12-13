@@ -1,0 +1,14 @@
+// 1.20.2	2023-12-13T11:20:39.4878332	Loot Tables
+95b37ebe65df43c3cef0006b8e1e56f7f399b9b7 data/marco_mod/loot_tables/blocks/ruby_block.json
+a3ed469f5084d00e05bd401332f952982c0fce8c data/marco_mod/loot_tables/blocks/ruby_button.json
+a103eb40639fc9dfc93286535ee5abbefc46f530 data/marco_mod/loot_tables/blocks/ruby_door.json
+27a9841cb4610e52d79dddd812a55ff5baf77e91 data/marco_mod/loot_tables/blocks/ruby_fence.json
+5245064c1e71e087162d11f1c5aba0da8207c319 data/marco_mod/loot_tables/blocks/ruby_fence_gate.json
+4effee42512ff8dbfc80ad24f39734febd2a7676 data/marco_mod/loot_tables/blocks/ruby_ore.json
+40ce2a100a87276720733302e63db89fa995b5f8 data/marco_mod/loot_tables/blocks/ruby_pressure_plate.json
+77077618b7e5d96337000d469c2f8e567ea10b9d data/marco_mod/loot_tables/blocks/ruby_slab.json
+6d5cfc62d029dc88b002ce303c461b3630d8d859 data/marco_mod/loot_tables/blocks/ruby_stairs.json
+26c7990f2bbb0d9a8b682fd52a72b9a44bd34825 data/marco_mod/loot_tables/blocks/ruby_trapdoor.json
+8d5d080d5017d57150e4e31dfed447ce0c67ea59 data/marco_mod/loot_tables/blocks/ruby_wall.json
+a292419c311863c8478fa04f311f47ce51927155 data/marco_mod/loot_tables/blocks/sapphire_block.json
+43a78ceed3ce53ca146203ec9d5a9acd5fed5add data/marco_mod/loot_tables/blocks/sapphire_ore.json

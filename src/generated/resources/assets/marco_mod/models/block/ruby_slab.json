@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "marco_mod:block/ruby_block",
+    "side": "marco_mod:block/ruby_block",
+    "top": "marco_mod:block/ruby_block"
+  }
+}

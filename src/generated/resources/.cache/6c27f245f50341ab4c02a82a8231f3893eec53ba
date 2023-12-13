@@ -1,0 +1,7 @@
+// 1.20.2	2023-12-13T14:32:25.7583232	Tags for minecraft:block mod id marco_mod
+6a9ee130f850b174ef8c271bf227c2d511cc5782 data/marco_mod/tags/blocks/needs_ruby_tool.json
+41d07cdf6cb21f0ec805804030480236b64ae0a1 data/minecraft/tags/blocks/fences.json
+e1ca6e66eef58acad6c424777e00cb57adfe890d data/minecraft/tags/blocks/fence_gates.json
+69c399a87f37850f58f54ad70df06204a25c45b5 data/minecraft/tags/blocks/mineable/pickaxe.json
+ca6b09acfb138e13892f4ce053970255a245fa59 data/minecraft/tags/blocks/needs_iron_tool.json
+a478684cbaefa36c71f178bef66ab58496b59f31 data/minecraft/tags/blocks/walls.json

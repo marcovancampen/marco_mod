@@ -1,0 +1,15 @@
+{
+  "values": [
+    "marco_mod:sapphire_ore",
+    "marco_mod:ruby_ore",
+    "marco_mod:sapphire_block",
+    "marco_mod:ruby_stairs",
+    "marco_mod:ruby_slab",
+    "marco_mod:ruby_pressure_plate",
+    "marco_mod:ruby_fence_gate",
+    "marco_mod:ruby_fence",
+    "marco_mod:ruby_wall",
+    "marco_mod:ruby_trapdoor",
+    "marco_mod:ruby_door"
+  ]
+}
